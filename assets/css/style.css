@@ -278,16 +278,6 @@ section {
     text-align: center;
 }
 
-.school-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 25px;
-}
-
-.school-container .education-card {
-    text-align: center;
-}
-
 .education-card h3 {
     color: #38BDF8;
     margin-bottom: 15px;
@@ -377,10 +367,6 @@ section {
 
 .python {
     width: 80%;
-}
-
-.javascript {
-    width: 75%;
 }
 
 .sql {
