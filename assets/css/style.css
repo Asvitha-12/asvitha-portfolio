@@ -516,6 +516,12 @@ section {
     margin: auto;
 }
 
+.project-status{
+    margin-top:15px;
+    font-weight:600;
+    color:#38bdf8;
+}
+
 .projects-container {
 
     display: grid;
