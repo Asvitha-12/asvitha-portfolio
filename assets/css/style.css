@@ -385,6 +385,22 @@ section {
     width: 75%;
 }
 
+.oop {
+    width: 85%;
+}
+
+.dsa {
+    width: 80%;
+}
+
+.git {
+    width: 85%;
+}
+
+.github {
+    width: 90%;
+}
+
 .sap-skills {
 
     display: grid;
