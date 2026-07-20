@@ -308,10 +308,10 @@ section {
     margin: auto;
 }
 
-.skills-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 40px;
+.skills-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+    gap:2rem;
 }
 
 .skill-category {
